@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="MyT" max_length="40" name="x_1234_def0104595_myt" type="collection">
+        <element choice="1" label="Chc1" max_length="40" name="chc1" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Blue" value="blue"/>
+                <element inactive_on_update="false" label="Green" value="green"/>
+                <element inactive_on_update="false" label="Red" value="red"/>
+            </choice>
+        </element>
+    </element>
+</database>

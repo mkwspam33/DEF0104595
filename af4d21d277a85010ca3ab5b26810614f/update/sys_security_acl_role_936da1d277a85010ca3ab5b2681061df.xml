@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-05 11:25:25</sys_created_on>
+        <sys_id>936da1d277a85010ca3ab5b2681061df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1234_def0104595_myt.x_1234_def0104595.myt_user</sys_name>
+        <sys_package display_value="DEF0104595" source="x_1234_def0104595">af4d21d277a85010ca3ab5b26810614f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DEF0104595">af4d21d277a85010ca3ab5b26810614f</sys_scope>
+        <sys_security_acl display_value="x_1234_def0104595_myt">9f6da1d277a85010ca3ab5b2681061db</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_936da1d277a85010ca3ab5b2681061df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-05 11:25:25</sys_updated_on>
+        <sys_user_role display_value="x_1234_def0104595.myt_user" name="x_1234_def0104595.myt_user">476da1d277a85010ca3ab5b268106139</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
